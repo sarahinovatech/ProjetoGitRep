@@ -2,4 +2,10 @@ arquivo para teste
 de conflito
 teste 2
 teste 1
+<<<<<<< HEAD
 testezinho de stash aaaa
+=======
+testezinho de stash
+testezinho de stash aaaa
+.....
+>>>>>>> d53e774... conflito resolvido
